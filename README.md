@@ -98,6 +98,11 @@ Through this project, I learned:
 ### Employee Dataset
 ![View and Download](View_and_download.png)
 
+
+## 🌐 Live Demo
+
+👉 https://employees-insights-dashboard09afarooquekhan.streamlit.app/
+
 ## 👨‍💻 Developed By
 
 **Abdul Farooque Waseem**
