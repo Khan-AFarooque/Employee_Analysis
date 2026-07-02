@@ -87,16 +87,16 @@ Through this project, I learned:
 ## 📷 Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### Visualizations
-![Charts](screenshots/charts.png)
+![Visualization](Visualization.png)
 
 ### Business Insights
-![Insights](screenshots/insights.png)
+![Business Insights](BusinessInsight.png)
 
 ### Employee Dataset
-![Dataset](screenshots/dataset.png)
+![View and Download](View and download.png)
 
 ## 👨‍💻 Developed By
 
