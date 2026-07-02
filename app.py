@@ -226,8 +226,6 @@ st.markdown(
 
     **Employee Insights Dashboard**
 
-    Developed using **Python, Pandas, Matplotlib and Streamlit**
-
     Built as part of my Data Analysis learning journey.
     """
 )
