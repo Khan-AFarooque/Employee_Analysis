@@ -96,7 +96,7 @@ Through this project, I learned:
 ![Business Insights](BusinessInsight.png)
 
 ### Employee Dataset
-![View and Download](View and download.png)
+![View and Download](View_and_download.png)
 
 ## 👨‍💻 Developed By
 
